@@ -1,0 +1,65 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TV9TeluguLogo.jpg" tvg-chno="1" group-title="Telugu News",Tv9 Telugu
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/II_m28Bm-iM
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/V6_News_logo.png" tvg-chno="2" group-title="Telugu News",V6 News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/IQJNk94wUDs
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pqXR8hr8ZGs35Cpj4mGhPXRZJMzE7SFmXUtzDyQ6IT1eOwSLhILk-He7g-rCQo4xY-k" tvg-chno="3" group-title="Telugu News",NTV Telugu
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/s7p2Q_cxV4E
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599133s.jpg" tvg-chno="4" group-title="Telugu News",HMTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/2fvNaWiBUPU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/10tv_telugu.jpg" tvg-chno="5" group-title="Telugu News",10TV Telugu
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Q0eu7HCRBgw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/T_News_logo.png" tvg-chno="6" group-title="Telugu News",T NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/sJ3wGoaZB4U
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Hz0ZWAZq64ouDXsGnGv9h1cG6wezsPuYowayytoEVchaYErA8k08WWfA5ox35jJ0hRgn4oBkHg=s900-c-k-c0x00ffffff-no-rj" tvg-chno="7" group-title="Telugu News",Tv5 Telugu
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/FRG6HCZIuQI
+#EXTINF:-1 tvg-logo="http://images.jdmagicbox.com/comp/hyderabad/p2/040p1235552206t5k9p2/catalogue/abn-andhra-jyothi-jubilee-hills-hyderabad-news-satellite-channels-17mofnj22v.jpg" tvg-chno="8" group-title="Telugu News",ABN News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/zwES4--H1aM
+#EXTINF:-1 tvg-logo="https://www.telugu360.com/wp-content/uploads/2017/10/Mahaa-News-2.0-With-blessings-from-Lokesh-moves-to-Amaravati.jpg" tvg-chno="9" group-title="Telugu News",Maaha News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/V6zQdBcSRoQ
+#EXTINF:-1 tvg-logo="https://www.sakshi.com/sites/default/files/images/sakshi-livetv1.gif" tvg-chno="10" group-title="Telugu News",Sakshi TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/8McTsOqeueE
+#EXTINF:-1 tvg-chno="11" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_VC7O339PPEzz4zUUPREH9imMvOuZN_mUElFsYVg=s900-c-k-c0x00ffffff-no-rj" group-title="Devotional",Bhakti TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/d0dB3kSCMmM
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://www.srisailadevasthanam.org/static/media/Logo-circle.8bc79b53.png" group-title="Devotional",Srisaila TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/zUGTA-0wWMk
+#EXTINF:-1 tvg-chno="13" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8I0A68zytYtMdpXZi2_anGVKoK8wMj_IqB-H7kQw=s900-c-k-c0x00ffffff-no-rj" group-title="Devotional",SVBC
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/Xyllz-qNF1o
+#EXTINF:-1 tvg-chno="14" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8Q1O_A4EGqon8ikpNieoNbbqqxm0XFtTFRcrP5_Q=s900-c-k-c0x00ffffff-no-rj" group-title="Devotional",CVR OM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/3I2Z_n67VwI
+#EXTINF:-1 tvg-chno="15" tvg-logo="https://yt3.ggpht.com/jmhEx_E--j0f2Nj6gqlJU5jGQDA4B93JDZM0_REDNxk3VeF8QLz3n97vEK1Zs2o4KSaawda3ww=s900-c-k-c0x00ffffff-no-rj" group-title="Devotional",Hindu Dharmam
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/oTdUu42N2n4
+#EXTINF:-1 tvg-chno="16" tvg-logo="https://economictimes.indiatimes.com/thumb/msid-60315549,width-1200,height-900,resizemode-4,imgsize-18677/switch-on-et-now-to-rise-with-india.jpg?from=mdr" group-title="Business News",ET Now
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/fP9JZ9xDnhc
+#EXTINF:-1 tvg-chno="17" tvg-logo="https://play-lh.googleusercontent.com/GSUkHd0wFWqql3CdCDgX5wc_AsYl6f3_9I9KA2yU6dadakz_EFu8b4ZrSaJaK6OW-H4=w240-h480-rw" group-title="Business News",NDTV Profit
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/GPKXF3mzAlU
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://pbs.twimg.com/profile_images/1072023698985705473/YftYvcTj_400x400.jpg" group-title="Business News",Zee Business
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/sT29RdaBXlY
+#EXTINF:-1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="Business News",CNBC Awaaz
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/TD0A7fHAxKw
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/FireTv/firetv-CNNIBN.png" group-title="English News",CNN-News18
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/H8U3UwRvTBs
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202105/india_today-1200x768.png?T_nem13aZnO3kckGUdUvsTnM19XsgtT0" group-title="English News",India Today
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/lyeyoqwXm5o
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://images.indianexpress.com/2020/12/Republic-TV.jpg" group-title="English News",Republic TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/SOy2m2tJU3M
+#EXTINF:-1 tvg-chno="23" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="English News",NDTV 24/7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/WB-y7_ymPJ4
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://images.indianexpress.com/2021/06/times-now.jpg" group-title="English News",Times Now
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/-aNLNkmqtsg
+#EXTINF:-1 tvg-chno="25" tvg-logo="https://cdn.wionews.com/images/WION-logo-1200.png" group-title="English News",WION
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/bcQwWdsFSKc
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_1.png?itok=HiAlB95R" group-title="English News",Al Jazeera
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/F-POY4Q0QSI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Aaj_Tak_logo.png" tvg-chno="27" group-title="Hindi News",Aaj Tak News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/y2alSCwW1Fc
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="Hindi News",Republic Bharath
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/qfrocHBy6RQ
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://ndtv.in/static/images/NDTVIndia.png" group-title="Hindi News",NDTV India
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MN8p-Vrn6G0
+#EXTINF:-1 tvg-chno="30" tvg-logo="https://indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2022/04/26/times-now-navbharat-logo.jpg?itok=hVU2wgc1" group-title="Hindi News",Times Now Navbharat
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/uzEEioqY17Y
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/1200px-ABP_News_logo.svg.png" group-title="Hindi News",ABP News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/nyd-xznCpJc
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/DD_News.png" group-title="Hindi News",DD News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/QmERLqjlHdo

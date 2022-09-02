@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1, ETV 4k 
+http://stream1.indigotv.me/source226:24561/ETV/FHD/mpegts?st=CXa4ADl7onHNc6B2TzzuSw&e=1636541654&chid=3170&uid=6315
+#EXTINF:-1, Gemini TV 4k
+http://stream1.indigotv.me/source226:24561/GEMINIFHD/mpegts?st=IuEb0YjU1Kdn4lglgMAHWQ&e=1636541733&chid=3156&uid=6315
+#EXTINF:-1, Gemini movies 4k
+http://stream1.indigotv.me/source226:24561/GEMINIMFHD/mpegts?st=O3PPwI_O1rkd06AnRJ9DRQ&e=1636541822&chid=3157&uid=6315
+#EXTINF:-1, Star Maa 4k
+http://stream1.indigotv.me/source226:24561/STAR/MAAFHD/mpegts?st=LuJNmpyczNZpoVXHF8XV5w&e=1636541899&chid=3135&uid=6315
+#EXTINF:-1, Star Maa movies 4k
+http://stream1.indigotv.me/source226:24561/MAA/MOVIESFHD/mpegts?st=oVR68SBSkVeGdDGiF1W0sA&e=1636541962&chid=3136&uid=6315
+#EXTINF:-1, Discovery 4k
+http://stream1.indigotv.me/source226:24561/DWTELUGUFHD/mpegts?st=_M8BZI04CqwNFJOYA6L9Ww&e=1636542026&chid=3247&uid=6315
+#EXTINF:-1,Sony BBC 4k
+http://stream1.indigotv.me/source226:24561/SBBCETELUGU/mpegts?st=Tm31M5zKBSlR3HcT49jq2g&e=1636542090&chid=3173&uid=6315
+#EXTINF:-1, Zee Telugu 4k
+http://stream1.indigotv.me/source226:24561/ZEE/TELUGUFHD/mpegts?st=n9Ov5nJuXa__6GeQZiIMeg&e=1636542170&chid=3137&uid=6315
+#EXTINF:-1, Zee cinemalu 4k
+http://stream1.indigotv.me/source226:24561/TG-ZEECINEMALU/mpegts?st=QgUYVPSRvuJgbA1gpFg3MA&e=1636542213&chid=384&uid=6315
+#EXTINF:-1, Gemini comedy sd
+http://stream1.indigotv.me/source226:24561/GEMINICFHD/mpegts?st=ZQSx-dJ2Swn8Ta5EKeP1og&e=1636542281&chid=3158&uid=6315
+#EXTINF:-1, Etv cinema sd
+http://stream1.indigotv.me/source226:24561/TG-ETVCINEMA/mpegts?st=8Ypcdt0q3l9UXxcetcnY6w&e=1636542353&chid=374&uid=6315
+#EXTINF:-1, Etv plus sd
+http://stream1.indigotv.me/source5:24561/HD/ETV/PLUS/mpegts?st=LHVeDTILI11gN6eeHm7NSA&e=1636542398&chid=3227&uid=6315
+#EXTINF:-1, Gemini HD
+http://stream1.indigotv.me/source94:80/43455/mpegts?st=Pg7jTIVEHzlnLbe4mGAUMA&e=1636542552&chid=2538&uid=6315
+#EXTINF:-1, Etv life sd
+http://stream1.indigotv.me/source5:24561/HD/ETV/LIFE/mpegts?st=ZFa5owebOUSiyHti7zr1dQ&e=1636542469&chid=3228&uid=6315
+#EXTINF:-1, Gemini movies HD
+http://stream1.indigotv.me/source94:80/43453/mpegts?st=Cvw4TcYxsIlRNL_3ZNVAiA&e=1636542630&chid=2891&uid=6315
+#EXTINF:-1, Gemini Life sd
+http://stream1.indigotv.me/source5:24561/HD/GEMINI-LIFE/mpegts?st=EtIVk6BEAu61DFOSiU3mog&e=1636542680&chid=3235&uid=6315
+#EXTINF:-1, Gemini music 4k
+http://stream1.indigotv.me/source5:24561/HD/GEMINI-MUSICHD/mpegts?st=_HoDiKpy8EAR78_ItEXk3A&e=1636542742&chid=3234&uid=6315
+#EXTINF:-1, Star maa gold sd
+http://stream1.indigotv.me/source5:24561/HD/STARMAAGOLDHD/mpegts?st=3_WaLZhYJwxmnansDGpyLw&e=1636542807&chid=3308&uid=6315
+#EXTINF:-1, Star maa gold sd 2
+http://stream1.indigotv.me/source94:80/43457/mpegts?st=yBPRkMWy3HXTDnS_49MyrA&e=1636542867&chid=2943&uid=6315
+#EXTINF:-1, CN SD
+http://stream1.indigotv.me/source94:80/43450/mpegts?st=AOrsjJ96OLCwBRQhYYL6Uw&e=1636542978&chid=2901&uid=6315
+#EXTINF:-1, Sony yay SD
+http://stream1.indigotv.me/source5:24561/HD/SONY-YAY/TELUGU/mpegts?st=oTEQ6iqUbeDUzxxe859Hhg&e=1636543025&chid=3436&uid=6315
+#EXTINF:-1, TTD sd
+http://stream1.indigotv.me/source5:24561/HD/SVBC/TTD/mpegts?st=4pZukIAzt9kWYTyEcm_Q0g&e=1636543093&chid=3396&uid=6315
+#EXTINF:-1, TV9
+http://stream1.indigotv.me/source226:24561/TG-TV9NEWS/mpegts?st=3LXtXgbZz9vuajg-rKNrPg&e=1636543144&chid=382&uid=6315
+#EXTINF:-1, Mahaa news
+http://stream1.indigotv.me/source94:80/43459/mpegts?st=u-v6ja43BQAU5fPSdSvmjg&e=1636543198&chid=378&uid=6315
+#EXTINF:-1, ABN
+http://stream1.indigotv.me/source94:80/43448/mpegts?st=6MAK-LtoY5L3ZNme_Y3jtA&e=1636543275&chid=2805&uid=6315
+#EXTINF:-1, Bhakti tv
+http://stream1.indigotv.me/source226:24561/TG/BHAKTHITV/mpegts?st=XiOvsBw3XK3Wvx9fkHJCAA&e=1636543334&chid=3305&uid=6315
+#EXTINF:-1, Ntv
+http://stream1.indigotv.me/source94:80/43461/mpegts?st=LheRcFepWDPN8pTBhcxg0Q&e=1636543429&chid=2898&uid=6315
+#EXTINF:-1 group-title="VR CHANNEL Etv",- ETV CINEMA
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40854
+#EXTINF:-1 group-title="VR CHANNEL Etv",- ETV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40855
+#EXTINF:-1 tvg-id="14019" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="VR CHANNEL Gemini",Gemini TV HD
+http://139.59.55.243/sunnxt/live.php?c=14019&e=.m3u8
+#EXTINF:-1 tvg-id="26570" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="VR CHANNEL Gemini",Gemini Movies HD
+http://139.59.55.243/sunnxt/live.php?c=26570&e=.m3u8
+#EXTINF:-1 tvg-id="26568" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="VR CHANNEL Gemini",Gemini Music HD
+http://139.59.55.243/sunnxt/live.php?c=26568&e=.m3u8
+#EXTINF:-1 tvg-id="9026" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="VR CHANNEL Gemini",Gemini Music
+http://139.59.55.243/sunnxt/live.php?c=9026&e=.m3u8
+#EXTINF:-1 tvg-id="9015" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="VR CHANNEL Gemini",Gemini Movies
+http://139.59.55.243/sunnxt/live.php?c=9015&e=.m3u8
+#EXTINF:-1 tvg-id="26572" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="VR CHANNEL Gemini",Gemini Life
+http://139.59.55.243/sunnxt/live.php?c=26572&e=.m3u8
+#EXTINF:-1 tvg-id="9027" tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="VR CHANNEL Gemini",Gemini Comedy
+http://139.59.55.243/sunnxt/live.php?c=9027&e=&e=.m3u8
+#EXTINF:-1 tvg-id="9017" tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="VR CHANNEL Gemini",Gemini TV
+http://139.59.55.243/sunnxt/live.php?c=9017&e=.m3u8
+#EXTINF:-1 group-title="VR CHANNEL Zee",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetelugu
+#EXTINF:-1 group-title="VR CHANNEL Zee",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemalu
+#EXTINF:-1 group-title="VR CHANNEL Maa",- MAA MOVIES HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40860
+#EXTINF:-1 group-title="VR CHANNEL Maa",- STAR MAA HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
+#EXTINF:-1 tvg-id="26568" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="VR CHANNEL Gemini",Kushi TV
+http://139.59.55.243/sunnxt/live.php?c=26571&e=junk.m3u8
+#EXTINF:-1,STAR MAA SD
+http://ahaohoo.com/.1/tv1/play.php?id=2327&e=.m3u8
+#EXTINF:-1,STAR MAA MUSIC
+http://ahaohoo.com/.1/tv1/play.php?id=2328&e=.m3u8
+#EXTNF:-1,STAR MAA MOVIES
+http://ahaohoo.com/.1/tv1/play.php?id=2329&e=.m3u8
+#EXTINF:-1, GEMINI HD
+http://ahaohoo.com/.1/tv1/play.php?id=2337&e=junk.m3u8
+#EXTINF:-1, GEMINI MUSIC
+http://ahaohoo.com/.1/tv1/play.php?id=2332&e=.m3u8
+#EXTINF:-1, GEMINI MOVIES
+http://ahaohoo.com/.1/tv1/play.php?id=2333&e=junk.m3u8
+#EXTINF:-1, GEMINI COMEDY
+http://ahaohoo.com/.1/tv1/play.php?id=2334&e=junk.m3u8
+#EXTINF:-1, GEMINI TV 
+http://ahaohoo.com/.1/tv1/play.php?id=2331&e=.m3u8
+#EXTINF:-1,RASI TV
+http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist_w1202270817.m3u8
+#EXTINF:-1,ZEE TELUGU HD
+http://priyankjivani.ml/?c=0-9-zeetelugu&type=junk.m3u8
+#EXTINF:-1,ZEE CINEMALU HD
+http://priyankjivani.ml/?c=0-9-zeecinemalu&e=junk.m3u8
+#EXTINF:-1,🙏VR CHANNEL 🙏
+#EXTINF:-1,TV9
+http://storeapp.idevuganda.com/assets/images/loading.gif
+#EXTINF:-1, Kushi TV
+http://139.59.55.243/sunnxt/live.php?c=26571&e=junk.m3u8
+#EXTINF:-1, Star Maa TV
+http://indian.gcdn.co/TELEGU-KANNADA-MAATVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Gemini TV HD
+http://139.59.55.243/sunnxt/live.php?c=9017&e=junk.m3u8
+#EXTINF:-1, Zee Telugu HD
+http://priyankjivani.ml/?c=0-9-zeetelugu&type=junk.m3u8
+#EXTINF:-1, Gemini TV HD 2
+http://139.59.55.243/sunnxt/live.php?c=14019&e=.m3u8
+#EXTINF:-1, Zee cinemalu HD
+http://priyankjivani.ml/?c=0-9-zeecinemalu&e=junk.m3u8
+#EXTINF:-1, LOCAL VR CHANNEL
+http://blmtech.in:8086/hls/viharitv/index.m3u8
+#EXTINF:-1, LOCAL VR CHANNEL
+http://blmtech.in:8086/hls/stvtelugu/index.m3u8
+#EXTINF:-1,Star Maa music
+http://last.gcdn.co/IND349/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Maa gold
+http://last.gcdn.co/IND375/tracks-v1a1/mono.m3uhttp://cdn.ayproviders.xyz:80/get.php?username=RELk7tQ2Dk&password=25RzJ9rsY8&type=m3u8
+#EXTINF:-1, Gemini movies hd
+http://last.gcdn.co/IND364/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Gemini tv hd
+http://139.59.55.243/sunnxt/live.php?c=14019&e=.m3u8
+#EXTINF:-1,Etv abhiruchi
+http://jo123.biz/jweb/m3u8.php?c=ETV_Abhiruchi&q=800&e=junk.m3u8
+#EXTINF:-1, Star maa
+http://last.gcdn.co/IND348/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Gemini life
+http://139.59.55.243/sunnxt/live.php?c=26572&e=.m3u8
+#EXTINF:-1, Kushi TV
+http://139.59.55.243/sunnxt/live.php?c=26571&e=.m3u8
+#EXTINF:-1,Rasi tv telugu
+http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist_w2090462950.m3u8
+#EXTINF:-1,Zee cinemalu hd
+http://priyankjivani.ml/?c=0-9-zeecinemalu&e=junk.m3u8
+#EXTINF:-1,Zee telugu
+http://priyankjivani.ml/?c=0-9-zeetelugu&type=junk.m3u8
+#EXTINF:-1,HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8?token=null
+#EXTINF:-1,&flix
+http://priyankjivani.ml/?c=0-9-channel_2105335046&e=junk.m3u8
+#EXTINF:-1,VR CHANNEL
+http://123
+#EXTINF:-1, Movies now hd
+http://nwbz1u.ecm.tm/806B6CF/143120e/SM_FHD-ENG-MOVIESNOW/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4b3e4658c6de7b437cbd9df72e42c0eaf783aee34bd127063da75fc9e8fd0aed5ae729a2dd9e64bb320ac1a48183ddb219824ee568319df573ba368c7e54e7f1aadade0540ecd92cfc7a4767769364d35a46645fc1fe
+#EXTINF:-1, local channel 3
+http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
+#EXTINF:-1, local channel 4
+http://live.streamingbharat.com:8080/hls7/stream.m3u8
+#EXTINF:-1, ETV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40855
+#EXTINF:-1, Etv cinema
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40854
+

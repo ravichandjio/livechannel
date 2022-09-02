@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/24" tvg-id="e03522999cdcd0b96d37358fe36f4ca1",10 HD
+http://58.96.43.228:9981/stream/channelid/421672416?ticket=657ECEBDA8F3F6EE147081065CDD795C81846E04&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/2" tvg-id="30256758c8bdfc8cbc3c396314898668",ABC TV
+http://58.96.43.228:9981/stream/channelid/1483154736?ticket=3C6F9BF270FE0F7DD0E4F2282D2D92863AE38D3D&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/43" tvg-id="6addc7ff2aec6bca5d00800be7cf8de1",SBS ONE
+http://58.96.43.228:9981/stream/channelid/2143804778?ticket=D11FB436C7DBDCC63DFE5AB654E1A6516CFE6373&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/25" tvg-id="ff33ba5cc96b07020e95adb6c5411713",7 Brisbane
+http://58.96.43.228:9981/stream/channelid/1555706879?ticket=5A1B546315067D7CE8EBDFC85645DAAD995F527F&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/36" tvg-id="f435f7929739942a7a40656d1eb604dd",Channel 9 Brisbane
+http://58.96.43.228:9981/stream/channelid/318191092?ticket=5C2476C89425886FE7EA9286F180608AFC008603&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/18" tvg-id="813638056ec3cfc5d01b82044f1d1218",10
+http://58.96.43.228:9981/stream/channelid/87570049?ticket=9518D453C95B4F04D0F282FEEA1A25F046E96022&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/20" tvg-id="6dd63a84b0ca3fa548775e3a18f67fc8",10 Peach
+http://58.96.43.228:9981/stream/channelid/70964845?ticket=10720E639BB6DD1EBDE04E61477DB27D185356BA&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/17" tvg-id="4aa4bbf0d61af6143139b0cd06308440",10 BOLD
+http://58.96.43.228:9981/stream/channelid/1891345482?ticket=CD9E0D1AB46E0B0E86CABD8D33C6F4BF0E47C954&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/23" tvg-id="bf6dc39e3b05c8fb74467644557e0aff",10 SHAKE
+http://58.96.43.228:9981/stream/channelid/516124095?ticket=18A494945F5FC8750710BC5C7829F00EB5A5E945&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/22" tvg-id="51574a42a045295e9b270b524a294d19",10 HD
+http://58.96.43.228:9981/stream/channelid/1112168273?ticket=A9B6549A2F0E6D5DF99A458D031748F09ABEEB81&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/19" tvg-id="e28dac91fc8224310461c944eabf28e8",TVSN
+http://58.96.43.228:9981/stream/channelid/296521186?ticket=F76ED95A76B6FCBEC11D64E915CFDA841ED98DCC&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/21" tvg-id="a49835103b23be79b4508749eff01b44",TBA
+http://58.96.43.228:9981/stream/channelid/271947940?ticket=18FCCF2EF2A4E47591DD9611DCA2AC5D61CD0763&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/6" tvg-id="f3a12e49781379101b4a607774d5fe86",ABCTV HD
+http://58.96.43.228:9981/stream/channelid/1227792883?ticket=DA4B4EA95F5C42E6CED826D672963753B75D8313&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/5" tvg-id="e2c393035ac558fe069547457bf5404c",ABC TV
+http://58.96.43.228:9981/stream/channelid/60015586?ticket=34CC68CCC696682B7A82D7D431D0DDFBF3FC0738&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/3" tvg-id="1b0b31c0ad3fafc51e81a4c30eb31b27",ABCKids/TVPlus
+http://58.96.43.228:9981/stream/channelid/1076955931?ticket=09C2D3B826112685FB1CAC2A34C8F9CE87AF92B8&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/4" tvg-id="7345470d9d01f75ec1e53807230eb6ab",ABC ME
+http://58.96.43.228:9981/stream/channelid/222774643?ticket=33A34909884F124FB70510063F0BC9A11E46A04B&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/1" tvg-id="45258938110552b61955339c8a0f6a36",ABC NEWS
+http://58.96.43.228:9981/stream/channelid/948512069?ticket=7C436551305E1B6A4FF70D6173914A2A32A9D9E9&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/14" tvg-id="8c467ee0b8c0032537a69e1ee3f4fe26",ABC BRISBANE
+http://58.96.43.228:9981/stream/channelid/1618888332?ticket=94B9CFFA8594CFA5377330C744EB7B9DFFB1DE1E&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/15" tvg-id="2e4724c29df97da9d80fca0ca632b826",ABC RN
+http://58.96.43.228:9981/stream/channelid/1109673774?ticket=FDFE6595AC8319309AE33DDD04EB4E0D83218333&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/12" tvg-id="3abb349b3876a49cc5ca170e0389ad5d",ABC Classic
+http://58.96.43.228:9981/stream/channelid/456440634?ticket=39868BD92E998D2023126DCAF34E960EC7C4CA93&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/10" tvg-id="2d524b39bc2d542f694590b38bd79607",triple j
+http://58.96.43.228:9981/stream/channelid/961237549?ticket=AD347694FE74A3D57C53391B1C9FA67F1C469AFA&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/11" tvg-id="5ff55e605aa834c9fbdeda5368195504",triple j Unearthed
+http://58.96.43.228:9981/stream/channelid/1616835935?ticket=3A40F0686F7DC59531E2518522BA3126E2456A7C&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/46" tvg-id="a00deb8286fe8992a244d69fe4256c21",SBS ONE HD
+http://58.96.43.228:9981/stream/channelid/48958880?ticket=CE545FD33C85B60A6805CF906F7547932888E2E2&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/47" tvg-id="bda4e860d8913163485f6b6f4542198a",SBS VICELAND HD
+http://58.96.43.228:9981/stream/channelid/1625859261?ticket=9C627C98E9DA2DE213DEDED07D91804377C7258B&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/48" tvg-id="231b2db08f8f31159efc44a5b9e75951",SBS World Movies
+http://58.96.43.228:9981/stream/channelid/808262435?ticket=CF52BE4F633D65C59ADDEA4DFD5B8E4CC24F0195&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/44" tvg-id="5e160fe2d880d39137882d7dd3955185",SBS Food
+http://58.96.43.228:9981/stream/channelid/1645155934?ticket=625520521D6639884BD4E3F8979154810B36BE29&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/45" tvg-id="8edd1c099173de4106e609921766bc1b",NITV
+http://58.96.43.228:9981/stream/channelid/152886670?ticket=464B06DFEA83F5F58AF356FE572D13DF24FA3BF8&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/49" tvg-id="22c03ec3853137e59bd0a5a89c55cd8f",SBS WorldWatch
+http://58.96.43.228:9981/stream/channelid/1128185890?ticket=36719FF75103CFA33FCA3064CA5DA75C81FC0552&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/50" tvg-id="344afd39af36efe015414d8347a2e15e",SBS Arabic24
+http://58.96.43.228:9981/stream/channelid/972900916?ticket=EAEA285AFFF306164E3019DF87EC507CDE1C521C&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/51" tvg-id="8065c27076cf12ce0efe66b6289f7599",SBS Radio 1
+http://58.96.43.228:9981/stream/channelid/1891788160?ticket=21EFF5C818FEE32CB10A1C3C5BBFE01E7A145A5C&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/52" tvg-id="e2bc3745738501f50df75535213b3384",SBS Radio 2
+http://58.96.43.228:9981/stream/channelid/1161280738?ticket=3EB48E57E47922E8DBB6288E2135025A7781E69B&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/53" tvg-id="78a190e83c7c0771458bc0c509f30d92",SBS Chill
+http://58.96.43.228:9981/stream/channelid/1754308984?ticket=F80D2BB8C24A997D78A5AB150189592D6FC77075&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/29" tvg-id="f4b461fc8f9e75692d494c416f3ed5f8",7HD Brisbane
+http://58.96.43.228:9981/stream/channelid/2086778100?ticket=C43A7CD6840086B3265BA6BAAE1C23B71BBF4708&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/26" tvg-id="47f939d107d94702ab01aef7725200cd",7 Brisbane
+http://58.96.43.228:9981/stream/channelid/1362753863?ticket=CE5A8703A51292F031F4A1C0299CAB1882F64B7E&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/27" tvg-id="024c1c92778a64659b001c4ae3f0f698",7TWO Brisbane
+http://58.96.43.228:9981/stream/channelid/303844354?ticket=AB30536C2D7F6910ED86DE946D012A601B6C544A&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/28" tvg-id="19207da09c39794c38ac16b0ab434d32",7mate Brisbane
+http://58.96.43.228:9981/stream/channelid/545071129?ticket=012391BDDE7634C99855CBE2828C80C023E89F94&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/31" tvg-id="9c7753062350f46956d1fa1d94a398a2",7mateHD Brisbane
+http://58.96.43.228:9981/stream/channelid/106133404?ticket=A4EF163A6245AEE6FA5DD9BFE36C4FB412334341&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/30" tvg-id="d78933d72d0737a18464b6140baa7706",7flix Brisbane
+http://58.96.43.228:9981/stream/channelid/1462995415?ticket=C24B7A620AA76E3BA31B3DA2D95F064E2E34C1A4&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/32" tvg-id="f9d231916d67444dfd5cba91309f78fa",RACING.COM
+http://58.96.43.228:9981/stream/channelid/288477945?ticket=8216EC63FBDD863D83914F49FA3672DDAA40F72F&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/33" tvg-id="12205a599da6cd1354c812db53f8641d",9HD Brisbane
+http://58.96.43.228:9981/stream/channelid/1499078674?ticket=4DE651D1DA07661C800563A42A85D256C87D81A4&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/39" tvg-id="2046904a3f0edc280176a8d0bcbb9ab9",Channel 9 Brisbane
+http://58.96.43.228:9981/stream/channelid/1250969120?ticket=C1510F609A13705F49FB0C8C8865896790BF8F9D&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/38" tvg-id="5b6fd17f9ea4c9b4437a70b6983889c7",9Gem Brisbane
+http://58.96.43.228:9981/stream/channelid/2144431963?ticket=12FFCCA95FEE05B8EE8070161E532CAB009D83A1&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/34" tvg-id="c49866192662fc327b924f7d52ac70ff",9Go! Brisbane
+http://58.96.43.228:9981/stream/channelid/426154180?ticket=464CB70134E7989E41421B710FC3151385113941&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/37" tvg-id="c3658bac3f8f28793e6ecae64e97c79b",9Life Brisbane
+http://58.96.43.228:9981/stream/channelid/747333059?ticket=6EECBCE952A89A01AC6D477C27A63D989C60B585&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/35" tvg-id="8515da76a9d0068afaf3a646b72f769e",9GemHD Brisbane
+http://58.96.43.228:9981/stream/channelid/1994003845?ticket=82F4E7D1A6C34AE187384603D05C5F0E1A61F598&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/41" tvg-id="eb0a5d03f55eb430d1bd0de9c02f4f96",9Rush Brisbane
+http://58.96.43.228:9981/stream/channelid/56429291?ticket=D794BEE9E1478925E29C5B91E6C170FBFB178B5C&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/42" tvg-id="aad78b46ca67681549ec045b811bf6a6",Extra
+http://58.96.43.228:9981/stream/channelid/1183569834?ticket=9B729651BD4735E5FBF17C16E59245D8E2F3E9C6&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/40" tvg-id="9caad4decab8b25d71204ede854513cc",9Go! Brisbane
+http://58.96.43.228:9981/stream/channelid/1590995612?ticket=8E9C0BCA3CC94B4925D5B6AABE654E87C5B65BB4&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/7" tvg-id="0a82a21551b7b2e65a8762cf225fcaa1",Double J
+http://58.96.43.228:9981/stream/channelid/362971658?ticket=A1E60C53F27E3DDCBE791E3EEFA9F434EFE48EB5&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/8" tvg-id="a01f4c747fc2cb734b78f5a66f993922",ABC Jazz
+http://58.96.43.228:9981/stream/channelid/1951145888?ticket=54DE3B90675A69EF6C9104E0685EB82B1D580685&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/9" tvg-id="5a2198065275dd105bcf4dc2a5081c09",ABC KIDS Listen
+http://58.96.43.228:9981/stream/channelid/110633306?ticket=37F210BD493AD468D989015D66772F5CE74194BF&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/13" tvg-id="8a7904b214231589a5a901b9a35b36ab",ABC Country
+http://58.96.43.228:9981/stream/channelid/839154058?ticket=28E7A559E1DB7D3F44E15265B08E28F18A28EE1A&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/16" tvg-id="ba4f4b65f352639f3687f095b311e4c8",ABC NewsRadio
+http://58.96.43.228:9981/stream/channelid/1699434426?ticket=0396EA2BD384CC6A74FA38396A11A6E78C5AB375&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/54" tvg-id="781ea8f7f0126ee002f067cbf2cb6828",SBS Radio 1
+http://58.96.43.228:9981/stream/channelid/2007506552?ticket=1A77165DFEA2112A1BBF729959D85ACA40FE79B5&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/55" tvg-id="59f706629cd8571f8dc31bb0bf1e9ab6",SBS Radio 2
+http://58.96.43.228:9981/stream/channelid/1644623705?ticket=30DD9E8C9624BF014DEA66C361F10FCFD483E671&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/56" tvg-id="839670a5b23337a50a6d9a14ca1de9eb",SBS Radio 3
+http://58.96.43.228:9981/stream/channelid/628135555?ticket=E7883778E153647EA5B157760908A2877E6B5D88&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/57" tvg-id="ddbe96f22429435f297099a2b3cc392b",SBS Arabic24
+http://58.96.43.228:9981/stream/channelid/1922481885?ticket=5FAD9AA07FF79A6D92B2DD2986967CA39ABDAFC2&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/58" tvg-id="09495af4877957f8e6246e178639bff8",SBS PopDesi
+http://58.96.43.228:9981/stream/channelid/1952073993?ticket=A15F636D7CF0434BD7A01784537A33C9B99DF5C5&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/59" tvg-id="42bb2083c2d29589b5b5fb2a108d3ada",SBS Chill
+http://58.96.43.228:9981/stream/channelid/52476738?ticket=439A3C3406B1333DBE498EFD90270D6C3A010FF0&profile=pass
+#EXTINF:-1 logo="http://58.96.43.228:9981/imagecache/60" tvg-id="cb9394199648cb06a4754bfff7789dfb",SBS PopAsia
+http://58.96.43.228:9981/stream/channelid/429167563?ticket=DA97DDDFFEB659F8D651FE01E7D79965135BB509&profile=pass
